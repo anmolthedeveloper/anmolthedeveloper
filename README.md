@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/anmolddeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/anmolddeveloper?logo=twitter&style=for-the-badge" alt="anmolddeveloper" /></a> </p>
 
-- 🌱 I’m currently doing freelancing as a **Flutter Developer** 
+- 🌱 I’m currently doing full time job as a **Mobile App Developer** 
 
-- 📫 How to reach me **anmolthedeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
