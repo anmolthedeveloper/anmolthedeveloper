@@ -39,20 +39,11 @@ Over the years I have worked across the mobile and web stack, from crafting resp
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmolthedeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolthedeveloper&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="180" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=anmolthedeveloper&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmolthedeveloper&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anmolthedeveloper&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
 </p>
 
 ## Connect With Me
