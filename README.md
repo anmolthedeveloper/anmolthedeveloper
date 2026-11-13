@@ -91,10 +91,11 @@ Plus the unglamorous parts that make a product actually work: platform channels,
 I write about production Flutter: fake GPS detection, app lifecycle, platform channels, CustomPaint and real debugging stories.
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking From the Grave: How Apps Follow Your Location After They're Killed](https://blog.anmolthedeveloper.com/tracking-from-the-grave-how-apps-follow-your-location-after-they-re-killed)
+- [Tracking From the Grave: How Apps Follow Your Location After They&#39;re Killed](https://blog.anmolthedeveloper.com/tracking-from-the-grave-how-apps-follow-your-location-after-they-re-killed)
 - [How to Open-Source Your Flutter Plugin and Still Hide the Code That Pays You](https://blog.anmolthedeveloper.com/how-to-open-source-your-flutter-plugin-and-still-hide-the-code-that-pays-you)
-- [You Built It Once. Now Sell It a Hundred Times: The Complete Flutter App Rebranding Guide](https://blog.anmolthedeveloper.com/you-built-it-once-now-sell-it-a-hundred-times-the-complete-flutter-app-rebranding-guide)
+- [You Built It Once. Now Sell It a Hundred Times — The Complete Flutter App Rebranding Guide](https://blog.anmolthedeveloper.com/you-built-it-once-now-sell-it-a-hundred-times-the-complete-flutter-app-rebranding-guide)
 - [Flutter Theme Guide: Light Mode, Dark Mode, System Theme and Custom Brand Colors](https://blog.anmolthedeveloper.com/flutter-theme-guide-light-mode-dark-mode-system-theme-and-custom-brand-colors)
+- [Flutter App Lifecycle Security: Why You Should Re-Validate State on App Resume](https://blog.anmolthedeveloper.com/flutter-app-lifecycle-security-why-you-should-re-validate-state-on-app-resume)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles](https://blog.anmolthedeveloper.com)
